@@ -1,2 +1,2 @@
-# bbms
-This is a test repo to put my html project
+# BLOOD BANK MANAGEMENT SYSTEM
+Author : Adity d
